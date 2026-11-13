@@ -2,7 +2,6 @@
 
 **SuaVez** é uma plataforma acadêmica para gestão e acompanhamento de filas hospitalares. O sistema permite que pacientes encontrem unidades próximas, acompanhem a posição na fila, recebam estimativas de espera e alertas de aproximação, enquanto administradores visualizam indicadores operacionais em um painel de gestão.
 
-> Projeto desenvolvido para a ExpoTech, integrando desenvolvimento web, banco de dados, Data Engineering, Data Science, Big Data e Cloud.
 
 ## Principais funcionalidades
 
